@@ -30,9 +30,9 @@ header {
     height: 600px;
     background: #000000;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(120, 82%, 33%, 0.403), hsl(0, 0%, 0%,0.219)),url(img/poder\ legislativo.png);
+    background: -webkit-linear-gradient(to right, hsla(120, 82%, 33%, 0.403), hsl(0, 0%, 0%,0.219)),url(https://www.codicemx.org/storage/articulos/imagen_interior_1613411110.png);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(120, 82%, 33%, 0.403), hsla(0, 0%, 0%, 0.219)),url(img/poder\ legislativo.png);
+    background: linear-gradient(to right, hsla(120, 82%, 33%, 0.403), hsla(0, 0%, 0%, 0.219)),url(https://www.codicemx.org/storage/articulos/imagen_interior_1613411110.png);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     background-size: cover;
