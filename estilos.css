@@ -165,6 +165,7 @@ main .sobre-nosotros {
 .hover-galeria a {
     color: #fff;
     text-align: center;
+    font-size: 20;
 }
 
 .imagen-port:hover .hover-galeria {
